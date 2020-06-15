@@ -88,7 +88,7 @@ public class Signup extends AppCompatActivity {
     private static final int READ_EXTERNAL_STORAGE_CODE = 101;
     int TAKE_IMAGE_CODE = 10001;
     int SSN_IMAGE = 10002;
-    String filemanagerstring;
+    private String filemanagerstring;
 
 
     SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd HH:mm:ss");
