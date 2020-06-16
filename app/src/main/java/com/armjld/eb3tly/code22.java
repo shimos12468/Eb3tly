@@ -47,7 +47,7 @@ public class code22 extends AppCompatActivity {
     private TextView txtViewPhone, btnReType;
     private ConstraintLayout linerVerf, linerPhone;
     private String TAG = "Phone Auth";
-
+    //a70000000
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
